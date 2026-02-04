@@ -1,2 +1,3 @@
-# PARTEE
-PARTEE - The fast, usable, and secure TEE platform for latency-sensitive applications.
+# PARTEE Containers for Secure Physical AI
+
+Open-source release coming soon.
